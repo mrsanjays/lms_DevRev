@@ -1,0 +1,23 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(244, 239, 239, 0.3), rgba(22, 6, 193, 0.5)), url("https://th.bing.com/th/id/OIP.uJmfINF2ThX6ufAA-HKyLgHaE8?w=280&h=187&c=7&r=0&o=5&dpr=1.5&pid=1.7") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
+#san{
+    background: rgb(177,16,242);
+background: linear-gradient(180deg, #b110f28d 49%, rgba(230,225,233,0.9847397577194941) 62%);
+font-weight: bold;
+}
+.SSS{
+    color: #b110f28d;
+    font-weight: bold;
+}
